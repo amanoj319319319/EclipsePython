@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90606ea7-9d25-4549-84ee-5c0d8aa3cfc1" name="Default Changelist" comment="" />
+    <list default="true" id="90606ea7-9d25-4549-84ee-5c0d8aa3cfc1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1c00w5czXeNt2zTI903XMYHukHL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,16 +31,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Allure_Package" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Allure_Packag" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manoj\PycharmProjects\EclipseProject\Allure_Packag" />
       <recent name="C:\Users\Manoj\PycharmProjects\EclipseProject\Allure_Package" />
       <recent name="C:\Users\Manoj\PycharmProjects\EclipseProject" />
       <recent name="C:\Users\Manoj\PycharmProjects\EclipseProject\Tests" />
       <recent name="C:\Users\Manoj\PycharmProjects\EclipseProject\Bases" />
-      <recent name="C:\Users\Manoj\PycharmProjects\EclipseProject\PyTest_4_Conftest" />
     </key>
   </component>
   <component name="RunManager" selected="Python.DataDrivenXLTest">
@@ -150,10 +156,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="370" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590128039435" />
-    <state x="420" y="96" key="FileChooserDialogImpl" timestamp="1590315608044">
+    <state x="420" y="96" key="FileChooserDialogImpl" timestamp="1590497497871">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="420" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590315608044" />
+    <state x="420" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590497497871" />
     <state width="1258" height="507" key="GridCell.Tab.0.bottom" timestamp="1590325022351">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
