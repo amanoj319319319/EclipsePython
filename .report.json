@@ -1,0 +1,10 @@
+{"created": 1589779115.5729363,
+  "duration": 11.994930744171143,
+  "exitcode": 0, "root": "C:\\Users\\Manoj\\PycharmProjects\\EclipseProject",
+  "environment": {"Python": "3.7.6", "Platform": "Windows-8-6.2.9200-SP0",
+    "Packages": {"pytest": "5.4.2", "py": "1.8.1", "pluggy": "0.13.1"},
+    "Plugins": {"json": "0.4.0", "json-report": "1.2.1", "metadata": "1.9.0"},
+    "JAVA_HOME": "C:\\Program Files\\Java\\jdk-13.0.1"},
+  "summary": {"passed": 1, "total": 1, "collected": 1}}
+
+
