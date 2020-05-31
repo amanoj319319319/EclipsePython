@@ -11,3 +11,5 @@ def driver_init(request):
     request.cls.driver = web_driver
     yield
     web_driver.close()
+
+#https://dzone.com/articles/improve-your-selenium-webdriver-tests-with-pytest
