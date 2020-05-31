@@ -1,4 +1,3 @@
-'''
 import unittest
 from selenium import webdriver
 import time
@@ -32,7 +31,6 @@ class LoginTest(unittest.TestCase):
 if __name__ == "__main__":
      unittest.main()
 
-'''
 
 
 
